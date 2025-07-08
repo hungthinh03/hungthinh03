@@ -3,7 +3,7 @@ I'm a back-end developer specializing in application development, with additiona
 I'm always open to new challenges, especially those that involve creating **user-friendly** and **highly scalable** solutions.
 
 [![Email](https://img.shields.io/badge/nguyenduchungthinh03-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nguyenduchungthinh03@gmai.com)
-[![nguyen-duc-hung-thinh](https://img.shields.io/badge/nguyen--duc--hung--thinh-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-duc-hung-thinh/)
+[![nguyen-duc-hung-thinh](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-duc-hung-thinh/)
 
 ---
 
