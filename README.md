@@ -9,7 +9,7 @@ I'm always open to new challenges, especially those that involve creating **user
 
 
 
-## ⚡ Technologies
+## ⚡ Tech Stack
 
 ### **Languages**  
 
