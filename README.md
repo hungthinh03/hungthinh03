@@ -25,7 +25,9 @@ I'm always open to new challenges, especially those that involve creating **user
 ### **Frameworks & Libraries**
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Data R2DBC](https://img.shields.io/badge/Spring%20Data%20R2DBC-6DB33F?style=for-the-badge)
+
 
 
 ### **Databases**
