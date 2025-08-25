@@ -26,7 +26,6 @@ I'm always open to new challenges, especially those that involve creating **user
 **Backend:**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) 
 ![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
-![Spring Data R2DBC](https://img.shields.io/badge/Spring%20Data%20R2DBC-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 ![Project Reactor](https://img.shields.io/badge/Reactor-6DB33F?style=for-the-badge&logo=react&logoColor=white)  
 
 **API / Communication:**  
@@ -48,5 +47,7 @@ I'm always open to new challenges, especially those that involve creating **user
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
